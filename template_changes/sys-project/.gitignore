@@ -1,0 +1,7 @@
+ip/
+*.o
+*.asm
+*.elf
+*.bin
+*.hex
+tmp*
